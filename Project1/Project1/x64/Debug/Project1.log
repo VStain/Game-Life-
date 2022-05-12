@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\Блокнот\My Projects\Project1\Project1\Source.cpp(143,19): warning C4804: <: небезопасное использование типа "bool" в операции
+F:\Блокнот\My Projects\Project1\Project1\Source.cpp(143,44): warning C4804: <: небезопасное использование типа "bool" в операции
+  Project1.vcxproj -> F:\Блокнот\My Projects\Project1\x64\Debug\Project1.exe
